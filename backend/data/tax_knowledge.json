@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "topic": "New Tax Regime Slabs (FY 2025-26)",
+    "content": "Under the New Tax Regime for FY 2025-26, income up to Rs 4,00,000 is tax free. 4,00,001-8,00,000 is taxed at 5%. 8,00,001-12,00,000 at 10%. 12,00,001-16,00,000 at 15%. 16,00,001-20,00,000 at 20%. 20,00,001-24,00,000 at 25%. Above 24,00,000 at 30%. A standard deduction of Rs 75,000 is available to salaried individuals. Rebate under Section 87A makes income up to Rs 12,00,000 effectively tax free (Rs 12.75 lakh for salaried after standard deduction)."
+  },
+  {
+    "id": 2,
+    "topic": "Old Tax Regime Slabs",
+    "content": "Under the Old Tax Regime, income up to Rs 2,50,000 is tax free (Rs 3,00,000 for senior citizens). 2,50,001-5,00,000 is taxed at 5%. 5,00,001-10,00,000 at 20%. Above 10,00,000 at 30%. The Old Regime allows deductions like 80C (up to 1.5 lakh), 80D (health insurance), HRA exemption, home loan interest, and standard deduction of Rs 50,000."
+  },
+  {
+    "id": 3,
+    "topic": "Section 80C Deductions",
+    "content": "Section 80C allows deduction up to Rs 1,50,000 per year for investments in EPF, PPF, ELSS mutual funds, life insurance premiums, NSC, tax-saving fixed deposits, and principal repayment of home loan. This deduction is only available under the Old Tax Regime."
+  },
+  {
+    "id": 4,
+    "topic": "Section 80D - Health Insurance",
+    "content": "Section 80D allows deduction for health insurance premiums. Up to Rs 25,000 for self, spouse, and children (below 60 years). Up to Rs 50,000 if the insured person is a senior citizen. An additional Rs 25,000 to Rs 50,000 can be claimed for parents' health insurance depending on their age."
+  },
+  {
+    "id": 5,
+    "topic": "HRA Exemption Rules",
+    "content": "House Rent Allowance (HRA) exemption is the minimum of: (1) actual HRA received, (2) rent paid minus 10% of basic salary, (3) 50% of basic salary for metro cities (Delhi, Mumbai, Kolkata, Chennai) or 40% for non-metro cities. HRA exemption is only available under the Old Tax Regime."
+  },
+  {
+    "id": 6,
+    "topic": "Which ITR Form to File",
+    "content": "ITR-1 (Sahaj) is for resident individuals with income up to Rs 50 lakh from salary, one house property, and other sources. ITR-2 is for individuals with capital gains or more than one house property, or income above 50 lakh, but no business income. ITR-3 is for individuals with business or professional income. ITR-4 (Sugam) is for presumptive income from business or profession under sections 44AD, 44ADA, or 44AE."
+  },
+  {
+    "id": 7,
+    "topic": "Standard Deduction",
+    "content": "Standard deduction is a flat deduction available to salaried employees and pensioners without needing any proof of expense. It is Rs 75,000 under the New Regime and Rs 50,000 under the Old Regime for FY 2025-26."
+  },
+  {
+    "id": 8,
+    "topic": "Section 87A Rebate",
+    "content": "Section 87A provides a tax rebate that makes tax liability nil for eligible taxpayers. Under the New Regime, taxable income up to Rs 12,00,000 gets a full rebate. Under the Old Regime, taxable income up to Rs 5,00,000 gets a full rebate of up to Rs 12,500."
+  },
+  {
+    "id": 9,
+    "topic": "Which Regime Should I Choose",
+    "content": "Choose the New Regime if you have few deductions to claim (no home loan, minimal 80C investments) since it offers lower slab rates and a higher standard deduction. Choose the Old Regime if you claim substantial deductions like HRA, home loan interest, 80C investments of 1.5 lakh, and 80D health insurance, as these can significantly lower your taxable income."
+  },
+  {
+    "id": 10,
+    "topic": "NPS Deduction 80CCD(1B)",
+    "content": "An additional deduction of up to Rs 50,000 is available under Section 80CCD(1B) for contributions to the National Pension System (NPS), over and above the Rs 1,50,000 limit of Section 80C. This is available only under the Old Tax Regime."
+  }
+]
