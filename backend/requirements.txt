@@ -8,5 +8,5 @@ pydantic==2.9.2
 langchain==0.3.7
 langchain-community==0.3.7
 langchain-google-genai==2.0.4
-faiss-cpu==1.8.0.post1
+faiss-cpu
 numpy==1.26.4
