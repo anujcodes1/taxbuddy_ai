@@ -7,7 +7,7 @@ import axios from "axios";
 // In development this falls back to your local FastAPI server.
 // In production, set VITE_API_URL (in a .env file or your host's dashboard)
 // to your deployed backend's URL, e.g. https://taxbuddy-api.onrender.com
-const BASE_URL = import.meta.env.VITE_API_URL || "http://127.0.0.1:8000";
+const BASE_URL = import.meta.env.VITE_API_URL || "https://taxbuddy-ai.onrender.com";
 
 const api = axios.create({
   baseURL: BASE_URL,
